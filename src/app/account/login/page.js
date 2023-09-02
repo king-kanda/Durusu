@@ -13,8 +13,8 @@ import Testimonials from '@/components/testimonials';
 const inter = Inter({ subsets: ['latin'] })
 
 const suss = Suisseintl({
-    src: '../../../../public/fonts/SuisseIntl-Bold.otf',
-    display: 'swap',
+    src: "../../../../public/fonts/SuisseIntl-Bold.otf",
+    display: "swap",
 })
 
 const druk = Druk ({
@@ -60,7 +60,7 @@ const page = () => {
                                     <a href="#" class="text-sm font-medium text-primary-600 hover:underline dark:text-primary-500">Forgot password?</a>
                                 </div>
                             <div>
-                                <Link href="/dhas" className='my-5'>
+                                <Link href="/dhas" className="my-5">
                                     <button type="submit" class="w-full text-white bg-primary-100 hover:bg-orange focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-full text-sm px-5 py-2.5 text-center ">Sign in</button>
                                     </Link>
                             </div>
@@ -81,7 +81,7 @@ const page = () => {
                         <div className="sign-up-sec mt-10 text-center">
                             <div className="create-account">
                                 <p>
-                                    Don't have an account? <Link href="/account/sign-up"><span className='text-orange underline font-bold'>
+                                    Don&rsquo;t have an account? <Link href="/account/sign-up"><span className='text-orange underline font-bold'>
                                         Create an account</span></Link>
                                 </p>
                             </div>

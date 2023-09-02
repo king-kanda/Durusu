@@ -41,7 +41,7 @@ const page = () => {
                   </p>
               
               <div className={`form mt-6`}>
-                  <form className='w-96'>   
+                  <form className="w-96">   
                       <label for="default-search" className="mb-2 text-sm font-medium text-gray sr-only dark:text-white">Search</label>
                       <div className="relative w-full">
                           <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
@@ -84,7 +84,7 @@ const page = () => {
                   </h3>
                   <div className={` flex items-center justify-center mt-6 mb-7`}>
                     <p className={` w-2/4 ${inter.className} `}>
-                    Incorporating an astounding 20,000 new study notes daily, this student community has undeniably secured its place as one of the world's most active, offering a vibrant tapestry of subjects and topics.
+                    Incorporating an astounding 20,000 new study notes daily, this student community has undeniably secured its place as one of the world&rsquo;s most active, offering a vibrant tapestry of subjects and topics.
                     </p>
                   </div>
             </div>
@@ -143,7 +143,7 @@ const page = () => {
                         We work hard & We play hard!
                       </h2>
                       <p className={` ${inter.className} text-white w-3/4 text-center `}>
-                      Dive into a boundless learning adventure! Join our student community now and explore a daily influx of 20,000 fresh study notes. Uncover an ever-growing tapestry of resources spanning diverse subjects. Don't just learn, thrive – sign up today and fuel your knowledge journey!
+                      Dive into a boundless learning adventure! Join our student community now and explore a daily influx of 20,000 fresh study notes. Uncover an ever-growing tapestry of resources spanning diverse subjects. Don&rsquo;t just learn, thrive – sign up today and fuel your knowledge journey!
                       </p>
                       <div className={` flex items-center justify-evenly `}>
                         <button className={`bg-orange text-white px-9 py-3 rounded-full mt-6 mx-6`}>

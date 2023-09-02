@@ -71,7 +71,7 @@ const Testimonials = () => {
                 <div className={` hello`}>
                     <div className="w-full p-8" style={divStyle}>
                         <div className={` ${styles.card } p-12  text-white`}>
-                        <p className={` ${inter.className} text-lg `}>" {testimonial.Comment} "</p>
+                        <p className={` ${inter.className} text-lg `}> &quot; {testimonial.Comment} &quot;</p>
                         <div className={` mt-5`}>
                             <h4 className={`mt-2 text-xl font-bold ${inter.className}`}>{testimonial.Name}</h4>
                             <p className={` ${inter.className} `}>{testimonial.Title}</p>
