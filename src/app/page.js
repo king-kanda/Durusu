@@ -37,7 +37,7 @@ const page = () => {
 
             
                   <p className={` w-2/4 mt-2 text-white ${inter.className} `}>
-                  We believe that education should be accessible to everyone. We are a dedicated online platform designed to help students connect, collaborate, and excel academically. Whether you're looking for study materials, lecture notes, or a platform to share your knowledge .
+                  We believe that education should be accessible to everyone. We are a dedicated online platform designed to help students connect, collaborate, and excel academically. Whether you&rsquo;re looking for study materials, lecture notes, or a platform to share your knowledge .
                   </p>
               
               <div className={`form mt-6`}>
